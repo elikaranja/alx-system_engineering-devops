@@ -8,3 +8,4 @@ File 6-third_line creates a script that displays the third line of the file iact
 File 7-file creates a script that creates a file named with special characters containing the text Best School.\
 File 7-file creates a scripts that creates a file named exactly with special characters and contains the text best school.\
 File 8-cwd_state creates a script that writes into the file ls_cwd_content the result of the command ls -la.\
+File 9-duplicate_last_line creates a script that duplicates the last line of the file iacta.\
