@@ -8,3 +8,5 @@ File 6-multiple_permissions creates a script that adds execute permission to the
 File 7-everybody creates a script that adds execution permission to the owner, the group owner and the other users, to the file hello.\
 File 8-James_Bond creates a script that grants all permissions to other users only.\
 File 9-John_Doe creates a script that gives all the permissions to the owner, read and execute permissions to the group and write and execute permissions to other users.\
+File 10-mirror_permissions creates a script that sets the mode of the file hello the same as olleh’s mode.\
+File 10-mirror_permissions creates a script that sets the mode of the file hello the same as olleh’s mode.\
