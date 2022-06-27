@@ -5,3 +5,4 @@ File 3-twofiles creates a script that displays the content of /etc/passwd and /e
 File 4-lastlines creates a script that displays the last 10 lines of /etc/passwd.\
 File 5-firstlines creates a script that display the first 10 lines of /etc/passwd.\
 File 6-third_line creates a script that displays the third line of the file iacta.\
+File 7-file creates a script that creates a file named with special characters containing the text Best School.\
