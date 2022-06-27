@@ -14,3 +14,4 @@ File 10-no_more_js deletes all the regular files with js extension that are pres
 File 11-directories creates a script that counts the number of directories and sub-directories in the current directory.\
 File 12-newest_files creates a script that displays the 10 newest files in the current directory, one file per line and sorted from the newest to the oldest.\
 File 13-unique creates a script that takes a list of words as input and prints only words that appear exactly once.\
+File 14-findthatword creates a script that displays lines containing the pattern “root” from the file /etc/passwd.\
