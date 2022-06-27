@@ -11,3 +11,4 @@ File 8-firstdelete creates a script that deletes the file betty from /tmp/my_fir
 File 9-firstdirdeletion creates a scripts that deletes my_first_directory that is in the /tmp directory.\
 File 10-back creates a script that changes the working directory to the previous one.\
 File 11-lists create a script that lists all the files in the current directory,parent directory of the working directory and the /boot directory in long format.\
+File 12-file_type creates a script that prints the type of the file named iamafile that is in the /tmp directory.\
