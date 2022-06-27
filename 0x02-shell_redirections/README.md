@@ -19,3 +19,4 @@ File 15-countthatword creates a script that displays the number of lines that co
 File 16-whatsnext creates a script that displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.\
 File 17-hidethisword creates a script that displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.\
 File 18-letteronly creates a script that displays all lines of the file /etc/ssh/sshd_config starting with a letter.\
+File 19-AZ creates a script that replaces all characters A and c from input to Z and e respectively.\
