@@ -15,3 +15,4 @@ File 12-file_type creates a script that prints the type of the file named iamafi
  File 13-symbolic_link creates a script that creates a symbolic link to /bin/ls, named __ls__.\
 File 14-copy_html creates a script that copies all the HTML files from the current working directory to the parent of the working directory.\
 File 100-lets_move creates a scriot that moves all files beginning with an uppercase letter to the directory /tmp/u.\
+File 101-clean_emacs creates a script that deletes all files in the current working directory that end with the character ~. \
