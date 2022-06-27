@@ -25,3 +25,4 @@ File 21-reverse creates a script that reverse its input.\
 File 22-users_and_homes creates a script that displays all users and their home directories, sorted by users.\
 File 100-empty_casks creates a script that finds all empty files and directories in the current directory and all sub-directories.\
 File 101-gifs creates a script that  lists all the files with a .gif extension in the current directory and all its sub-directories.\
+File 102-acrostic creates a script that decodes acrostics that use the first letter of each line.\
