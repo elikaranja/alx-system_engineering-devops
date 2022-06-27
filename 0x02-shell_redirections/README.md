@@ -1,2 +1,3 @@
 File 0-hello_world creates a script that prints “Hello, World”, followed by a new line to the standard output.\
 File 1-confused_smiley creates a script that displays a confused smiley "(Ôo).'
+File 2-hellofile creates a script that display the content of the /etc/passwd file.\
