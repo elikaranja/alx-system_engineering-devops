@@ -7,3 +7,4 @@ File 4-listmorefiles creates a script that displays current directory contents, 
 File 5-listfilesdigitonly creates a script that numerically lists the user and group IDs for all files\
 File 6-firstdirectory creates a script that creates a directory my_first_directory in the /tmp directory.\
 File 7-movethatfile creates a script that moves the file betty from /tmp/ to /tmp/my_first_directory.\
+File 8-firstdelete creates a script that deletes the file betty from /tmp/my_first_directory.\
