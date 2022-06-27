@@ -4,3 +4,4 @@ File 2-hellofile creates a script that display the content of the /etc/passwd fi
 File 3-twofiles creates a script that displays the content of /etc/passwd and /etc/hosts.\
 File 4-lastlines creates a script that displays the last 10 lines of /etc/passwd.\
 File 5-firstlines creates a script that display the first 10 lines of /etc/passwd.\
+File 6-third_line creates a script that displays the third line of the file iacta.\
