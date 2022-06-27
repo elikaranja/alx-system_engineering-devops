@@ -20,3 +20,4 @@ File 16-whatsnext creates a script that displays lines containing the pattern �
 File 17-hidethisword creates a script that displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.\
 File 18-letteronly creates a script that displays all lines of the file /etc/ssh/sshd_config starting with a letter.\
 File 19-AZ creates a script that replaces all characters A and c from input to Z and e respectively.\
+File 20-hiago creates a script that removes all letters c and C from input.\
