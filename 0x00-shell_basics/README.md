@@ -5,3 +5,4 @@ File 2-bring_me_home creates a script that changes the working directory to the 
 File 3-listfiles creates a script that display current directory contents in a long format.\
 File 4-listmorefiles creates a script that displays current directory contents, including hidden files (starting with .)\
 File 5-listfilesdigitonly creates a script that numerically lists the user and group IDs for all files\
+File 6-firstdirectory creates a script that creates a directory my_first_directory in the /tmp directory.\
