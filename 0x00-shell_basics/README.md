@@ -10,3 +10,4 @@ File 7-movethatfile creates a script that moves the file betty from /tmp/ to /tm
 File 8-firstdelete creates a script that deletes the file betty from /tmp/my_first_directory.\
 File 9-firstdirdeletion creates a scripts that deletes my_first_directory that is in the /tmp directory.\
 File 10-back creates a script that changes the working directory to the previous one.\
+File 11-lists create a script that lists all the files in the current directory,parent directory of the working directory and the /boot directory in long format.\
