@@ -2,3 +2,4 @@
 File 1-listit creates a script that Display the contents list of your current directory.
 
 File 2-bring_me_home creates a script that changes the working directory to the user’s home directory.\
+File 3-listfiles creates a script that display current directory contents in a long format.\
