@@ -22,3 +22,4 @@ File 18-letteronly creates a script that displays all lines of the file /etc/ssh
 File 19-AZ creates a script that replaces all characters A and c from input to Z and e respectively.\
 File 20-hiago creates a script that removes all letters c and C from input.\
 File 21-reverse creates a script that reverse its input.\
+File 22-users_and_homes creates a script that displays all users and their home directories, sorted by users.\
