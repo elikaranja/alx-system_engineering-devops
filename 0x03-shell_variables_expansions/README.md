@@ -15,3 +15,4 @@ File 13-print_float is a script that prints a number with two decimal places, fo
 File 100-decimal_to_hexadecimal is a script that converts a number from base 10 to base 16.\
 File 101-rot13 is a script that encodes and decodes text using the rot13 encryption. Assume ASCII.\
 File 102-odd is a script that prints every other line from the input, starting with the first line.\
+File 103-water_and_stir is a script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
